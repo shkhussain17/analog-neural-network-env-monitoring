@@ -65,7 +65,7 @@ This project explores whether "intelligent" decision-making can be implemented p
 
 ## Author
 
-[Your Name] — Electronics & Telecommunication Engineering, Shree L.R. Tiwari College of Engineering
+Hussain Mohammadali Shaikh — Electronics & Telecommunication Engineering, Shree L.R. Tiwari College of Engineering
 
 ## License
 
