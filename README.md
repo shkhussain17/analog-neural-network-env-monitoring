@@ -56,10 +56,6 @@ This project explores whether "intelligent" decision-making can be implemented p
 - 🔲 Breadboard hardware prototype
 - 🔲 PCB design
 
-## Circuit Diagrams
-
-*(Add your Falstad screenshots / exported schematics here)*
-
 ## Learning Outcomes
 
 - Practical application of op-amp configurations (comparator, differential amplifier, Schmitt trigger)
